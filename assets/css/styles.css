@@ -90,184 +90,183 @@ a {
     }
 }
 
-@media only screen and (min-width: 920px) {
-    .siteSelector .au a {
-        background-image: url("/assets/flags/au.svg");
-    }
 
-    .siteSelector .bg a {
-        background-image: url("/assets/flags/bg.svg");
-    }
+.siteSelector .au a {
+    background-image: url("/assets/flags/au.svg");
+}
 
-    .siteSelector .ch a {
-        background-image: url("/assets/flags/ch.svg");
-    }
+.siteSelector .bg a {
+    background-image: url("/assets/flags/bg.svg");
+}
 
-    .siteSelector .cn a {
-        background-image: url("/assets/flags/cn.svg");
-    }
+.siteSelector .ch a {
+    background-image: url("/assets/flags/ch.svg");
+}
 
-    .siteSelector .cl a {
-        background-image: url("/assets/flags/cl.svg");
-    }
+.siteSelector .cn a {
+    background-image: url("/assets/flags/cn.svg");
+}
 
-    .siteSelector .cz a {
-        background-image: url("/assets/flags/cz.svg");
-    }
+.siteSelector .cl a {
+    background-image: url("/assets/flags/cl.svg");
+}
 
-    .siteSelector .de a {
-        background-image: url("/assets/flags/de.svg");
-    }
+.siteSelector .cz a {
+    background-image: url("/assets/flags/cz.svg");
+}
 
-    .siteSelector .dk a {
-        background-image: url("/assets/flags/dk.svg");
-    }
+.siteSelector .de a {
+    background-image: url("/assets/flags/de.svg");
+}
 
-    .siteSelector .es a {
-        background-image: url("/assets/flags/es.svg");
-    }
+.siteSelector .dk a {
+    background-image: url("/assets/flags/dk.svg");
+}
 
-    .siteSelector .fi a {
-        background-image: url("/assets/flags/fi.svg");
-    }
+.siteSelector .es a {
+    background-image: url("/assets/flags/es.svg");
+}
 
-    .siteSelector .fr a {
-        background-image: url("/assets/flags/fr.svg");
-    }
+.siteSelector .fi a {
+    background-image: url("/assets/flags/fi.svg");
+}
 
-    .siteSelector .gb a {
-        background-image: url("/assets/flags/gb.svg");
-    }
+.siteSelector .fr a {
+    background-image: url("/assets/flags/fr.svg");
+}
 
-    .siteSelector .gr a {
-        background-image: url("/assets/flags/gr.svg");
-    }
+.siteSelector .gb a {
+    background-image: url("/assets/flags/gb.svg");
+}
 
-    .siteSelector .hk a {
-        background-image: url("/assets/flags/hk.svg");
-    }
+.siteSelector .gr a {
+    background-image: url("/assets/flags/gr.svg");
+}
 
-    .siteSelector .hr a {
-        background-image: url("/assets/flags/hr.svg");
-    }
+.siteSelector .hk a {
+    background-image: url("/assets/flags/hk.svg");
+}
 
-    .siteSelector .hu a {
-        background-image: url("/assets/flags/hu.svg");
-    }
+.siteSelector .hr a {
+    background-image: url("/assets/flags/hr.svg");
+}
 
-    .siteSelector .id a {
-        background-image: url("/assets/flags/id.svg");
-    }
+.siteSelector .hu a {
+    background-image: url("/assets/flags/hu.svg");
+}
 
-    .siteSelector .ie a {
-        background-image: url("/assets/flags/ie.svg");
-    }
+.siteSelector .id a {
+    background-image: url("/assets/flags/id.svg");
+}
 
-    .siteSelector .il a {
-        background-image: url("/assets/flags/il.svg");
-    }
+.siteSelector .ie a {
+    background-image: url("/assets/flags/ie.svg");
+}
 
-    .siteSelector .in a {
-        background-image: url("/assets/flags/in.svg");
-    }
+.siteSelector .il a {
+    background-image: url("/assets/flags/il.svg");
+}
 
-    .siteSelector .it a {
-        background-image: url("/assets/flags/it.svg");
-    }
+.siteSelector .in a {
+    background-image: url("/assets/flags/in.svg");
+}
 
-    .siteSelector .is a {
-        background-image: url("/assets/flags/is.svg");
-    }
+.siteSelector .it a {
+    background-image: url("/assets/flags/it.svg");
+}
 
-    .siteSelector .jp a {
-        background-image: url("/assets/flags/jp.svg");
-    }
+.siteSelector .is a {
+    background-image: url("/assets/flags/is.svg");
+}
 
-    .siteSelector .kr a {
-        background-image: url("/assets/flags/kr.svg");
-    }
+.siteSelector .jp a {
+    background-image: url("/assets/flags/jp.svg");
+}
 
-    .siteSelector .lt a {
-        background-image: url("/assets/flags/lt.svg");
-    }
+.siteSelector .kr a {
+    background-image: url("/assets/flags/kr.svg");
+}
 
-    .siteSelector .my a {
-        background-image: url("/assets/flags/my.svg");
-    }
+.siteSelector .lt a {
+    background-image: url("/assets/flags/lt.svg");
+}
 
-    .siteSelector .nl a {
-        background-image: url("/assets/flags/nl.svg");
-    }
+.siteSelector .my a {
+    background-image: url("/assets/flags/my.svg");
+}
 
-    .siteSelector .no a {
-        background-image: url("/assets/flags/no.svg");
-    }
+.siteSelector .nl a {
+    background-image: url("/assets/flags/nl.svg");
+}
 
-    .siteSelector .nz a {
-        background-image: url("/assets/flags/nz.svg");
-    }
+.siteSelector .no a {
+    background-image: url("/assets/flags/no.svg");
+}
 
-    .siteSelector .ph a {
-        background-image: url("/assets/flags/ph.svg");
-    }
+.siteSelector .nz a {
+    background-image: url("/assets/flags/nz.svg");
+}
 
-    .siteSelector .pl a {
-        background-image: url("/assets/flags/pl.svg");
-    }
+.siteSelector .ph a {
+    background-image: url("/assets/flags/ph.svg");
+}
 
-    .siteSelector .pt a {
-        background-image: url("/assets/flags/pt.svg");
-    }
+.siteSelector .pl a {
+    background-image: url("/assets/flags/pl.svg");
+}
 
-    .siteSelector .ro a {
-        background-image: url("/assets/flags/ro.svg");
-    }
+.siteSelector .pt a {
+    background-image: url("/assets/flags/pt.svg");
+}
 
-    .siteSelector .ru a {
-        background-image: url("/assets/flags/ru.svg");
-    }
+.siteSelector .ro a {
+    background-image: url("/assets/flags/ro.svg");
+}
 
-    .siteSelector .se a {
-        background-image: url("/assets/flags/se.svg");
-    }
+.siteSelector .ru a {
+    background-image: url("/assets/flags/ru.svg");
+}
 
-    .siteSelector .sg a {
-        background-image: url("/assets/flags/sg.svg");
-    }
+.siteSelector .se a {
+    background-image: url("/assets/flags/se.svg");
+}
 
-    .siteSelector .si a {
-        background-image: url("/assets/flags/si.svg");
-    }
+.siteSelector .sg a {
+    background-image: url("/assets/flags/sg.svg");
+}
 
-    .siteSelector .sk a {
-        background-image: url("/assets/flags/sk.svg");
-    }
+.siteSelector .si a {
+    background-image: url("/assets/flags/si.svg");
+}
 
-    .siteSelector .sg a {
-        background-image: url("/assets/flags/sg.svg");
-    }
+.siteSelector .sk a {
+    background-image: url("/assets/flags/sk.svg");
+}
 
-    .siteSelector .tw a {
-        background-image: url("/assets/flags/tw.svg");
-    }
+.siteSelector .sg a {
+    background-image: url("/assets/flags/sg.svg");
+}
 
-    .siteSelector .th a {
-        background-image: url("/assets/flags/th.svg");
-    }
+.siteSelector .tw a {
+    background-image: url("/assets/flags/tw.svg");
+}
 
-    .siteSelector .tr a {
-        background-image: url("/assets/flags/tr.svg");
-    }
+.siteSelector .th a {
+    background-image: url("/assets/flags/th.svg");
+}
 
-    .siteSelector .us a {
-        background-image: url("/assets/flags/us.svg");
-    }
+.siteSelector .tr a {
+    background-image: url("/assets/flags/tr.svg");
+}
 
-    .siteSelector .vn a {
-        background-image: url("/assets/flags/vn.svg");
-    }
+.siteSelector .us a {
+    background-image: url("/assets/flags/us.svg");
+}
 
-    .siteSelector .za a {
-        background-image: url("/assets/flags/za.svg");
-    }
+.siteSelector .vn a {
+    background-image: url("/assets/flags/vn.svg");
+}
+
+.siteSelector .za a {
+    background-image: url("/assets/flags/za.svg");
 }
