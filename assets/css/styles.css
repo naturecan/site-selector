@@ -74,18 +74,16 @@ a {
 }
 
 @media only screen and (min-width: 750px) {
-    .siteSelector li {
-        flex-wrap: wrap;
-        flex: 0 0 20%;
-        flex-grow: 1;
-    }
-}
-
-@media only screen and (min-width: 750px) {
     .siteSelector {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         grid-gap: 10px;
+    }
+
+    .siteSelector li {
+        flex-wrap: wrap;
+        flex: 0 0 20%;
+        flex-grow: 1;
     }
 }
 
