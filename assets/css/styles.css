@@ -4,24 +4,6 @@
     padding: 0;
 }
 
-.siteSelector {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 10px;
-}
-
-@media only screen and (max-width: 749px) {
-    .siteSelector {
-      grid-template-columns: repeat(2, 1fr);
-    }
-}
-
-    @media only screen and (max-width: 460px) {
-    .siteSelector {
-      grid-template-columns: repeat(1, 1fr);
-    }
-}
-
 .siteSelector .us a {
     padding-right: 0px;
     max-height: 43.39px;
@@ -101,12 +83,24 @@ a {
 
 @media only screen and (min-width: 750px) {
     .siteSelector {
-        display: flex;
-        flex-wrap: wrap;
-        flex-grow: 1;
-        text-align: center;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 10px;
     }
 }
+
+@media only screen and (max-width: 749px) {
+    .siteSelector {
+      grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+    @media only screen and (max-width: 460px) {
+    .siteSelector {
+      grid-template-columns: repeat(1, 1fr);
+    }
+}
+
 
 
 .siteSelector .au a {
