@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+ul.siteSelector {
+    display: grid;
+}
+
 .siteSelector .us a {
     padding-right: 0px;
     max-height: 43.39px;
