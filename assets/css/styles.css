@@ -4,10 +4,6 @@
     padding: 0;
 }
 
-ul.siteSelector {
-    display: grid;
-}
-
 .siteSelector .us a {
     padding-right: 0px;
     max-height: 43.39px;
@@ -92,6 +88,10 @@ a {
 }
 
 @media only screen and (max-width: 749px) {
+    ul.siteSelector {
+        display: grid;
+    }
+
     .siteSelector {
       grid-template-columns: repeat(2, 1fr);
     }
