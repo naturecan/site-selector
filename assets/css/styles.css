@@ -289,3 +289,10 @@ a {
 .siteSelector .za a {
     background-image: url("/assets/flags/za.svg");
 }
+
+
+/* H1 */
+
+.site-header__logo-hidde {
+    display: none;
+}
