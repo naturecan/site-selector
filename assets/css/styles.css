@@ -214,6 +214,10 @@ a {
     background-image: url("/assets/flags/my.svg");
 }
 
+.siteSelector .mx a {
+	background-image: url("/assets/flags/mx.svg");
+}
+
 .siteSelector .nl a {
     background-image: url("/assets/flags/nl.svg");
 }
@@ -286,10 +290,9 @@ a {
     background-image: url("/assets/flags/vn.svg");
 }
 
-.siteSelector .za a {
-    background-image: url("/assets/flags/za.svg");
+.siteSelector .br a {
+	background-image: url("/assets/flags/br.svg");
 }
-
 
 /* H1 */
 
